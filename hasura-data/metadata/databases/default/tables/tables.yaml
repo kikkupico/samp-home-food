@@ -1,3 +1,4 @@
+- "!include public_deliveries.yaml"
 - "!include public_dishes.yaml"
 - "!include public_order_items.yaml"
 - "!include public_orders.yaml"
